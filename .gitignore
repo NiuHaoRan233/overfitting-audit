@@ -1,0 +1,11 @@
+.rps_cache/
+output/
+logs/
+*.log
+*.parquet
+*.csv
+*.xlsx
+*.pkl
+*.pickle
+__pycache__/
+*.pyc
